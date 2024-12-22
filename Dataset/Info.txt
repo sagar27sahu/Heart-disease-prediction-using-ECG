@@ -1,0 +1,7 @@
+The "Cardiovascular ECG Images" dataset on Kaggle comprises electrocardiogram (ECG) images from both healthy individuals and patients with cardiovascular conditions. It includes four categories: normal, myocardial infarction (MI), abnormal heartbeat, and previous history of MI. This dataset is valuable for developing and evaluating machine learning models aimed at classifying and diagnosing various heart conditions based on ECG imagery.
+
+
+The entire dataset is available at https://www.kaggle.com/datasets/jayaprakashpondy/ecgimages/code
+
+
+Also the dataset is attached at ->
