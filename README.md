@@ -18,10 +18,10 @@ The dataset used for training and evaluation is located in the `Dataset` directo
 
 ## Requirements
 
-To run the code in this repository, ensure you have the necessary Python packages installed. You can install them using the following command:
+To run the code in this repository, ensure you have the necessary Python packages installed. 
 
 ```bash
-pip install -r requirements.txt
+please go through the notebook and install the reqd dependencies manually as the required dependecies are subject to change with time .
 ```
 
 ## Usage
